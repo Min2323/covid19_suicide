@@ -3,7 +3,7 @@
 This repository contains the full R code used for the study:
 
 > **"The Effect of the COVID-19 Pandemic on Suicide and Self-Harm in Korea: Interrupted Time Series and Causal Impact Analyses"**  
-> Published in *Psychiatry Investigation* (2023)  
+> Published in *Psychiatry Investigation* (2024)  
 > 🔗 [Read the full article here](https://www.psychiatryinvestigation.org/m/journal/view.php?number=1798)
 
 ---
