@@ -8,7 +8,7 @@ This repository contains the full R code used for the study:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 | File | Description |
 |------|-------------|
